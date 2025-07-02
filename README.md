@@ -3,6 +3,9 @@
 
 ![home](https://camo.githubusercontent.com/b3072e92d82f21ef16b32b094f692c330a3d7c4d4153afd71487617986c33c70/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f647a357576367770342f696d6167652f75706c6f61642f665f6175746f2c715f6175746f2f76312f506572736f6e616c2f627331696e686e346c786b777677627039756d68)
 
+(This is my new Guthub account actually got lost my previous one)
+
+
 ## 📱 Socials:
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
