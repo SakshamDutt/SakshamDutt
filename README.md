@@ -5,7 +5,7 @@
 
 I’m a software developer who loves making web applications that are clean, fast, and user-focused. Whether it's building interactive frontends or powering up backends. I'm especially interested in working with modern web tools, experimenting with creative projects, and diving into the evolving spaces of DevOps, AI and machine learning.
 
-### 💻 Languages and Tools
+## 💻 Languages and Tools
 
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
