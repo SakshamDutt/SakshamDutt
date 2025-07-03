@@ -79,6 +79,7 @@ I’m a software developer who loves making web applications that are clean, fas
 </p>
 
 ## ✉️Contact:
-<p align="left><u>sakshamdutt46150@gmail.com</u></p>
+<p align="left"><a href="mailto:sakshamdutt46150@gmail.com"><u>sakshamdutt46150@gmail.com</u></a></p>
+
 
 ---
