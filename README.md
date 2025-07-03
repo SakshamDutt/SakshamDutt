@@ -31,7 +31,8 @@ I’m a software developer who loves making web applications that are clean, fas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
 
 ### 🎨 Frontend  
 <p align="left">
@@ -77,5 +78,7 @@ I’m a software developer who loves making web applications that are clean, fas
   <img src="https://img.shields.io/badge/Playwright-%23007ACC.svg?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
+## ✉️Contact:
+<p align="left><u>sakshamdutt46150@gmail.com</u></p>
 
 ---
