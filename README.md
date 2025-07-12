@@ -1,5 +1,5 @@
 <h1 align="center">I'm Saksham Dutt Kahol</h1>
-<h3>I’m a software developer who loves making web applications that are clean, fast, and user-focused. Whether it's building interactive frontends or powering up backends. I'm especially interested in working with modern web tools, experimenting with creative projects, and diving into the evolving spaces of DevOps, AI and machine learning.</h3>
+<h3>I’m a software developer who loves making web applications that are clean, fast, and user-focused. Whether it's building interactive frontends or powering up backends. I'm especially interested in working with modern web tools, experimenting with creative projects, and diving into evolving spaces of DevOps, AI and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamdutt&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamdutt" /> </p>
 
