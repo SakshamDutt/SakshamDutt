@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sakshamdut65576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshamdut65576" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saksham-dutt-kahol-0338a1374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saksham-dutt-kahol-0338a1374/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/dutt_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/dutt_designer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saksham-dutt-kahol-0338a1374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saksham-dutt-kahol-0338a1374/" height="30" width="40" /></a>
+<a href="https://dribbble.com/dutt_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/dutt_designer" height="30" width="40" /></a>
 <a href="https://youtube.com/@sakshamdutt2945?si=32D8VRBWI9t__Z4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sakshamdutt2945" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sakshamdu99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sakshamdu99/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sakshamdu99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sakshamdu99/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
