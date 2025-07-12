@@ -21,19 +21,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/sakshamdut65576" target="blank">
+  <a href="https://twitter.com/sakshamdut65576" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshamdut65576" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/saksham-dutt-kahol-0338a1374" target="blank">
+  <a href="https://linkedin.com/in/saksham-dutt-kahol-0338a1374" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-dutt-kahol-0338a1374" height="30" width="40" />
   </a>
-  <a href="https://dribbble.com/dutt_designer" target="blank">
+  <a href="https://dribbble.com/dutt_designer" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dutt_designer" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/sakshamdutt2945" target="blank">
+  <a href="[https://www.youtube.com/c/sakshamdutt2945](https://www.youtube.com/@sakshamdutt2945)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sakshamdutt2945" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/sakshamdu99/" target="blank">
+  <a href="https://leetcode.com/u/sakshamdu99/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshamdu99" height="30" width="40" />
   </a>
 </p>
